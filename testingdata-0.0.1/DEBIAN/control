@@ -1,0 +1,12 @@
+Source: testingdata
+Section: unknown
+Priority: optional
+Maintainer: Thomas Ward <teward@ubuntu.com>
+Build-Depends: debhelper (>=9)
+Standards-Version: 3.9.6
+Homepage: <insert the upstream URL, if relevant>
+Package: testingdata
+Architecture: any
+Description: A test package with a script
+ A very short test package.
+Version: 0.0.1

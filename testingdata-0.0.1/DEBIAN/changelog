@@ -1,0 +1,5 @@
+testingdata (0.0.1-1) unstable; urgency=medium
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Thomas Ward <teward@ubuntu.com>  Thu, 28 Dec 2017 09:47:28 -0500
